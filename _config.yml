@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Andrea Antoni
 descrition: This is the description
-show_downloads: "false"
+show_downloads: false
 include:
  - index.md
